@@ -1,0 +1,2 @@
+# HotelsPage
+BEM Methodology
